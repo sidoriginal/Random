@@ -1,0 +1,8 @@
+10/8/22
+I learned about the following things today:
+1)I begin learning socket programming.
+2)Used socket programming to create an echo-server tcp in connection oriented scenario.
+3)Used functions such as socket(),sockaddr_in,bind(),listen() and many more.
+4)First made the server client on same pc which ran correctly
+5)Then tried to make server and client on two separate computer systems which was not sending messages
+6)Sir made a change of line in the code which made it run correctly.
